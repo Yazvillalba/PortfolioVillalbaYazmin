@@ -1,0 +1,17 @@
+/* .header-contenedor{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+} */
+.logo-redes{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+/* app-redes-sociales{
+    float: right;
+} */
+app-banner{
+    display: block;
+}
