@@ -1,6 +1,7 @@
 div{
     background-color: rgba(205, 166, 241, 0.858);
     text-align: center;
+    height: 250px;
 }
 
 #nombre{
